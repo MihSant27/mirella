@@ -2,5 +2,13 @@ body{
     background:rgb(255, 191, 244);
     color: black;
     margin: 0px;
+    font-family: "Playwrite GB s",serif;
     margin-bottom: 100px;
+    .chamada{
+        background: rgb(228, 165, 228);
+        margin-top: 80px;
+        margin-bottom: 80px;
+        display: flex;
+        justify-content: center;
+    }
 }
